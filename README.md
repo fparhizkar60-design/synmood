@@ -1,7 +1,7 @@
-# SynMood
+# cinMood
 
 ## Project Introduction
-SynMood is a Python application that recommends movies based on the user's mood and viewing preferences.
+cinMood is a Python application that recommends movies based on the user's mood and viewing preferences.
 
 ## Features
 - Select the user's current mood
@@ -10,6 +10,6 @@ SynMood is a Python application that recommends movies based on the user's mood 
 
 ## Introduction Video
 
-[Watch the SynMood Project Demonstration](https://drive.google.com/file/d/19XDHXOlxRbWVpMgN9x4SzgJfa21y85ac/view?usp=drive_link)
+[Watch the cinMood Project Demonstration](https://drive.google.com/file/d/19XDHXOlxRbWVpMgN9x4SzgJfa21y85ac/view?usp=drive_link)
 ## How to Run
-Open the `chaleng synmod.ipynb` file in Jupyter Notebook or VS Code and run the notebook cells to execute the program.
+Open the `chaleng cinmood.ipynb` file in Jupyter Notebook or VS Code and run the notebook cells to execute the program.
